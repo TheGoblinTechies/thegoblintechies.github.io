@@ -6,7 +6,7 @@ active: member
 
 ## 邱勇
 
-![pic](/Users/peikunguo/Documents/2018_Spring/shakespeare/qiuyong.jpeg)
+![pic](qiuyong.jpeg)
 
 清华大学校长
 通信地址：北京清华大学  邮政编码：100086
