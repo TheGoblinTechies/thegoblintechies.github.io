@@ -5,9 +5,12 @@ active: about
 ---
 
 
-This is a simple two-column [jekyll](https://jekyllrb.com/) theme delicated to wrting.
+Welcome to SkakespeareChina, this is a website for notice and some necessary information.
 
-You can get to know more about this theme [here]().
+In Home, you will have a view on recent notices.
 
+In Archive, you shall get a full view on the whole message in recent years.
 
-Theme inspire by [Farbtle](https://github.com/YCF/Farbtle), I steal most CSS from him.
+In Member, short introductions of our members are listed.
+
+Thanks for reading :)
