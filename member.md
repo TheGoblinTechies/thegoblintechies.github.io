@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-active: about
+title: Member
+active: member
 ---
 
 
