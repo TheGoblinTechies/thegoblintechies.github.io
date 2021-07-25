@@ -1,7 +1,7 @@
-title: Shakespeare  # your title
-author: shakespeareChina # your name
-description: A web for announcement # your description
-avatar: /images/shakespeare.jpg # change avatar
+title: Zhaole's Personal Web  # your title
+author: Sun Zhaole # your name
+description: A web for sharing Zhaole's academic career # your description
+avatar: /images/Ichijou.png # change avatar
 
 # Build Settings
 markdown: kramdown
