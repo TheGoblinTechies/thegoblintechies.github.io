@@ -2,5 +2,7 @@
 layout: post
 ---
 
-This is my first official post to really organize my personal page after creating it for more than four years without further management.
+These two weeks I have read about several papers published in recent 5 years on deformable object planning manipulation.
+
+
 
