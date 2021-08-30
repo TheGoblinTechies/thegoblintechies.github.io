@@ -12,3 +12,5 @@ I am writing some blogs which can be classified into following topics:
 4. **Personal experience**, including traveling and other daily life.
 
 The type of topics is included in the title of each post.
+
+Sometimes I perfer writing my thoughts down as a mark for reminder.
