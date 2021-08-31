@@ -4,12 +4,9 @@ title: About
 active: about
 ---
 
-
-
-
 I am Sun Zhaole, a first-year PhD student supervised by Prof. [*Robert Fisher*](https://homepages.inf.ed.ac.uk/rbf/) in University of Edinburgh, Edinburgh, UK. My research topic lays on dual-arm manipulation and planning, deformable linear object manipulation, and deformable linear object perception.
 
-Before being a PhD student at Edinburgh, I got my bachelor degree from Department of Automation at Tsinghua University, Beijing, China. From January 2019 to July 2020, I spent one and a half year as a research intern supervised by [*Anbang Yao*](https://yaoanbang.github.io/) working on Convolutional Neural Network compression and aceleration in Intel Lab China, Beijing, China. I finished my Bachelor's thesis supervised by [*Xiang Li*](https://sites.google.com/view/homepageoflixiang/home) working on 2D Deformable Object Manipulation via Deep Reinforcement Learning Approch.  
+Before being a PhD student at Edinburgh, I got my bachelor degree from Department of Automation at Tsinghua University, Beijing, China. I finished my Bachelor's thesis supervised by [*Xiang Li*](https://sites.google.com/view/homepageoflixiang/home) working on 2D Deformable Object Manipulation via Deep Reinforcement Learning Approch. From January 2019 to July 2020, I spent one and a half year as a research intern supervised by [*Anbang Yao*](https://yaoanbang.github.io/) working on Convolutional Neural Network compression and aceleration in Intel Lab China, Beijing, China.
 
 To contact me by email: zhaole.sun at ed dot ac dot uk, for academic messages, and zhaole.sun.97 at gmail dot com, for non-academic messages.
 
