@@ -4,7 +4,9 @@ title: Publication
 active: publication
 ---
 
-[*Learning Pregrasp Manipulation of Objects from Ungraspable Poses*](https://ieeexplore.ieee.org/document/9196982)\(ICRA2020\)
+**2020**
+
+[*Learning Pregrasp Manipulation of Objects from Ungraspable Poses*](https://ieeexplore.ieee.org/document/9196982)  \(ICRA2020\)
 
 **Zhaole Sun**, Kai Yuan, Wenbin Hu, Chuanyu Yang, Zhibin Li
 
